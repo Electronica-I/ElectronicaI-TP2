@@ -1,0 +1,124 @@
+Added Component: Designator=C1(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CAP200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(JUMPER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J?(SIP7)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT(SIP4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(RES400)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T1(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T3(TO92)
+Add component. Clean all parameters for all variants
+Added Component: Designator=V1(SIP4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=V2(SIP4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=OUT-4
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=V1-1
+Added Pin To Net: NetName=GND Pin=V2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=T1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=J4-2
+Added Pin To Net: NetName=NetC1_2 Pin=OUT-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=NetC2_1 Pin=T2-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R4-1
+Added Pin To Net: NetName=NetC2_2 Pin=R6-2
+Added Pin To Net: NetName=NetC2_2 Pin=T1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R8-1
+Added Pin To Net: NetName=NetJ1_2 Pin=V1-4
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R9-1
+Added Pin To Net: NetName=NetJ2_2 Pin=V2-4
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R5-2
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=T3-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=T2-3
+Added Pin To Net: NetName=NetR7_2 Pin=T3-3
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=V1 Pin=J1-1
+Added Pin To Net: NetName=V1 Pin=R8-2
+Added Pin To Net: NetName=V1 Pin=T3-1
+Added Net: Name=V1
+Added Pin To Net: NetName=V2 Pin=J2-1
+Added Pin To Net: NetName=V2 Pin=R9-2
+Added Pin To Net: NetName=V2 Pin=T2-1
+Added Net: Name=V2
+Added Pin To Net: NetName=VCC Pin=J?-7
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VEE Pin=J?-1
+Added Pin To Net: NetName=VEE Pin=R6-1
+Added Pin To Net: NetName=VEE Pin=R7-1
+Added Pin To Net: NetName=VEE Pin=T1-2
+Added Net: Name=VEE
+Added Member To Class: ClassName=Esquemático Member=Component C1 100n
+Added Member To Class: ClassName=Esquemático Member=Component C2 100n
+Added Member To Class: ClassName=Esquemático Member=Component J1 JUMPER
+Added Member To Class: ClassName=Esquemático Member=Component J2 JUMPER
+Added Member To Class: ClassName=Esquemático Member=Component J4 JUMPER
+Added Member To Class: ClassName=Esquemático Member=Component J? CON7
+Added Member To Class: ClassName=Esquemático Member=Component OUT CON4
+Added Member To Class: ClassName=Esquemático Member=Component R1 2.2k
+Added Member To Class: ClassName=Esquemático Member=Component R2 6.8k
+Added Member To Class: ClassName=Esquemático Member=Component R3 6.8k
+Added Member To Class: ClassName=Esquemático Member=Component R4 680
+Added Member To Class: ClassName=Esquemático Member=Component R5 2.2k
+Added Member To Class: ClassName=Esquemático Member=Component R6 6.8k
+Added Member To Class: ClassName=Esquemático Member=Component R7 6.8k
+Added Member To Class: ClassName=Esquemático Member=Component R8 570
+Added Member To Class: ClassName=Esquemático Member=Component R9 570
+Added Member To Class: ClassName=Esquemático Member=Component T1 PNP
+Added Member To Class: ClassName=Esquemático Member=Component T2 NPN
+Added Member To Class: ClassName=Esquemático Member=Component T3 NPN
+Added Member To Class: ClassName=Esquemático Member=Component V1 CON4
+Added Member To Class: ClassName=Esquemático Member=Component V2 CON4
+Added Room: Name=Esquemático
