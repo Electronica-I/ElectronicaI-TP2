@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetR2_1 Pin=R2-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R2-2
+Removed Member From Class: ClassName=Esquemático Member=R2
+Added Component: Designator=500(PRESET H)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR2_1 Pin=500-1
+Added Pin To Net: NetName=NetR2_1 Pin=500-1
+Added Pin To Net: NetName=NetR2_2 Pin=500-2
+Added Pin To Net: NetName=NetR2_2 Pin=500-2
+Added Pin To Net: NetName=NetR2_3 Pin=500-3
+Added Pin To Net: NetName=NetR2_3 Pin=500-3
+Change Net Name : Old Net Name=NetR2_1 New Net Name=Net500_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=Net500_2
+Change Net Name : Old Net Name=NetR2_3 New Net Name=Net500_3
+Added Member To Class: ClassName=Esquemático Member=Component 500 PRESET

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=500 Old Footprint=PRESET V New Footprint=RES400
+Change Component Comment: Designator=500 Old Comment=PRESET New Comment=6.8k
+Change Component Designator: OldDesignator=500 NewDesignator=R2
