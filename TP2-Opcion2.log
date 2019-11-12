@@ -3,19 +3,20 @@ Circuit: * D:\GoogleDrive-ITBA\ITBA - Me\2019B\Electronica I\ElectronicaI-TP2\TP
 WARNING: Less than two connections to node V2.  This node is used by R8.
 Direct Newton iteration for .op point succeeded.
 
-Date: Mon Nov 11 21:52:56 2019
-Total elapsed time: 0.076 seconds.
+Date: Tue Nov 12 14:24:20 2019
+Total elapsed time: 1.521 seconds.
 
 tnom = 27
 temp = 27
-method = trap
-totiter = 6
-traniter = 0
-tranpoints = 0
-accept = 0
-rejected = 0
-matrix size = 25
-fillins = 0
+method = modified trap
+totiter = 343121
+traniter = 343115
+tranpoints = 120488
+accept = 82263
+rejected = 38225
+matrix size = 26
+fillins = 4
 solver = Normal
-Matrix Compiler1:      83 opcodes
-Matrix Compiler2: 1.96 KB object code size
+Matrix Compiler1: 1.69 KB object code size  0.4/0.3/[0.1]
+Matrix Compiler2: off  [0.4]/0.5/0.4
+
