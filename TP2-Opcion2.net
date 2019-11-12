@@ -1,11 +1,11 @@
 * D:\GoogleDrive-ITBA\ITBA - Me\2019B\Electronica I\ElectronicaI-TP2\TP2-Opcion2.asc
-Q1 N006 V1 N008 0 BC547B
-Q2 N003 N007 N008 0 BC547B
+Q1 N006 V1 N008 0 BC337-40
+Q2 N003 N007 N008 0 BC337-40
 R1 N008 -VEE 6k8
 R3 VCC N003 6k8
 C1 N002 N003 100n
 R6 0 N002 680
-Q3 -VEE N002 N001 0 BC557B
+Q3 -VEE N002 N001 0 BC556B
 R7 VCC N001 2K2
 R4 V1 N005 570
 R5 VCC N006 6k8
@@ -21,7 +21,7 @@ R10 N007 0 570
 .model NPN NPN
 .model PNP PNP
 .lib C:\Users\BZeroL\Documents\LTspiceXVII\lib\cmp\standard.bjt
-;ac dec 1000 1 10meg
-.tran 0 1 0 0.01
+.ac dec 1000 10 1meg
+;tran 0 1 0 0.01
 .backanno
 .end
